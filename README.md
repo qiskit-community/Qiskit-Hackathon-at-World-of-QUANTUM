@@ -2,18 +2,25 @@
 
 The Qiskit Hackathon@World of QUANTUM is the first Qiskit event happening in person in Germany hosted by the Federal Ministry of Education and Research (BMBF), IBM Quantum's Community Team and Messe München GmbH.
 
-The hackathon will take place in a dedicated space in Hall A4 (World of QUANTUM) at Messe München.
+The hackathon will take place in a dedicated space in [Hall A4](https://world-of-photonics.com/en/about/exhibition-sectors/world-of-quantum/) (World of QUANTUM) at Messe München.
 
+## About
 The hackathon will kickoff with an opening presentation and guideline review.
+
 Participants will then form teams of 4-5 people and work on a challenge for the next 24 hours.
+
 Mentors will be available to support and help the teams during the hackathon.
+
 After the 24 hours, a committee of experts will evaluate the outcome and select the winners.
+
 
 ## Timeline
 
 #### Tuesday 26 April
 11:55 – 12:15 - Welcome note at the Forum World of QUANTUM
+
 12:15 - 14:30 - Guidelines, lunch, and team formation in the Hackathon Space
+
 14:30 - Start of the Hacking Phase in the Hackathon Space
 
 *Between 20:00 (26 April) and 08:00 (27 April) you may ask questions in the Qiskit
