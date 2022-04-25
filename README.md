@@ -23,7 +23,7 @@ After the 24 hours, a committee of experts will evaluate the outcome and select 
 
 14:30 - Start of the Hacking Phase in the Hackathon Space
 
-*Between 20:00 (26 April) and 08:00 (27 April) you may ask questions in the Qiskit
+*Between 20:00 (26 April) and 08:00 (27 April) you may ask questions in the dedicated Qiskit Event
 Slack Channel [#hackathon-woq-support](https://qiskit.slack.com/archives/C03BJNQ0S15) for remote assistance. [[Click here to join
 Qiskit Slack](https://ibm.co/joinqiskitslack), if needed.]
 
@@ -33,3 +33,18 @@ Qiskit Slack](https://ibm.co/joinqiskitslack), if needed.]
 14:30 - 16:00 - Optional Project Presentation & Community Choice Award
 
 16:00 - 16:30 - Closing Ceremony at the Forum World of QUANTUM
+
+## Projects
+
+Please find full details on the Hackathon Project format, team formation, and project submission in the In-Person Attendee Guide. 
+
+Here is an [example of an Education Hackathon Project Submission](https://github.com/TigrisCallidus/Education-Hackathon-Template) for your review.
+
+## Questions
+
+If you have any questions, please ask the team of Qiskit Mentors at the event or post them in the dedicated Qiskit Event
+Slack Channel [#hackathon-woq-support](https://qiskit.slack.com/archives/C03BJNQ0S15).
+
+
+
+
