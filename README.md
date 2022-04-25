@@ -13,9 +13,7 @@ After the 24 hours, a committee of experts will evaluate the outcome and select 
 
 #### Tuesday 26 April
 11:55 – 12:15 - Welcome note at the Forum World of QUANTUM
-
 12:15 - 14:30 - Guidelines, lunch, and team formation in the Hackathon Space
-
 14:30 - Start of the Hacking Phase in the Hackathon Space
 
 *Between 20:00 (26 April) and 08:00 (27 April) you may ask questions in the Qiskit
