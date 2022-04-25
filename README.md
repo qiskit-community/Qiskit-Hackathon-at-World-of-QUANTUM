@@ -1,8 +1,8 @@
 # Welcome to the Qiskit Hackathon at World of QUANTUM
 
-#### [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/In-Person%20Attendee%20Guide.pdf).
+## [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/In-Person%20Attendee%20Guide.pdf).
 
-## About
+### About
 
 The Qiskit Hackathon@World of QUANTUM is the first Qiskit event happening in person in Germany hosted by the Federal Ministry of Education and Research (BMBF), IBM Quantum's Community Team and Messe München GmbH.
 
@@ -15,7 +15,7 @@ Mentors will be available to support and help the teams during the hackathon.
 After the 24 hours, a committee of experts will evaluate the outcome and select the winners.
 
 
-## Timeline
+### Timeline
 
 #### Tuesday 26 April
 11:55 – 12:15 - Welcome note at the Forum World of QUANTUM
@@ -35,13 +35,13 @@ Qiskit Slack](https://ibm.co/joinqiskitslack), if needed.]
 
 16:00 - 16:30 - Closing Ceremony at the Forum World of QUANTUM
 
-## Projects
+### Projects
 
 Please find full details on the Hackathon Project format, team formation, and project submission in the [In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/In-Person%20Attendee%20Guide.pdf). 
 
 Here is an [example of an Education Hackathon Project Submission](https://github.com/TigrisCallidus/Education-Hackathon-Template) for your review.
 
-## Questions
+### Questions
 
 If you have any questions, please ask the team of Qiskit Mentors at the event or post them in the dedicated Qiskit Event
 Slack Channel [#hackathon-woq-support](https://qiskit.slack.com/archives/C03BJNQ0S15).
