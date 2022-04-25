@@ -1,12 +1,11 @@
 # Welcome to the Qiskit Hackathon at World of QUANTUM
 
-The Qiskit Hackathon@World of QUANTUM is the first Qiskit event happening in person in Germany hosted by the Federal Ministry of Education and Research (BMBF), IBM Quantum's Community Team and Messe München GmbH.
-
-The hackathon will take place in a dedicated space in [Hall A4](https://world-of-photonics.com/en/about/exhibition-sectors/world-of-quantum/) (World of QUANTUM) at Messe München.
-
 #### [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/In-Person%20Attendee%20Guide.pdf).
 
 ## About
+
+The Qiskit Hackathon@World of QUANTUM is the first Qiskit event happening in person in Germany hosted by the Federal Ministry of Education and Research (BMBF), IBM Quantum's Community Team and Messe München GmbH.
+
 The hackathon will kickoff with an opening presentation and guideline review.
 
 Participants will then form teams of 4-5 people and work on a challenge for the next 24 hours.
