@@ -41,6 +41,20 @@ Please find full details on the Hackathon Project format, team formation, and pr
 
 Here is an [example of an Education Hackathon Project Submission](https://github.com/TigrisCallidus/Education-Hackathon-Template) for your review.
 
+## Teams
+
+| Team Number       | Project Topic       | Education Level       | Team Members | 
+| -----------| -----------|:--------------:| :------:|
+| Team 1 - One-Zero| Quantum Key Distribution|Bachelor Students| Raul Santos, Vladlen Galetsky, Daniela Trienes, Arthur Mendonça Faria, André Lohde | 
+| Team 2 - Q&Aoa| QAOA|MSc Students (Non-Physicists)| Irene Iype, Nicolas Thill, Petr Ivashkov, Carla Weidner, Lukas Klement | 
+| Team 3 - Q Team| QKD |Bachelor Students |Robert Bakyayita, Neel Kanth Kundu, Gottfried Szing, Mike Richardson, Nandan Mishra |
+| Team 4 | QAOA | MSc Students with background in QC | Jakob Pforr, Catharina Broocks, Kevin Shen, Constantin Economides, Jakob Huhn|
+| Team 5 | Quantum Quickstarter | Industry | Tammo Sievers, Aubrey Coffey, Lilly Palackal, Maximilian Hess, Matthias Wulff|
+| Team 6 | QAOA Game | MSc Students with background in QC | Kuancheng Chen, Vasily Bokov, Uday Chandrashekara, Vivek Krishnakumar Rajathilakam, Rawan Eraqi|
+| Team 7 | Shor's Algorithm | Bachelor Students with background in QC | Felix Kunze, Matthew Ross, Daniel Breuer, Maximiliam Alexandrov, Rocio Suarez|
+| Team 8 | Quantum Jargon Buster | High School Students | Nadeem Akhlaq, Leonard Bleiziffer, Johannes Frank, Julius Freigl, Steffen Keßler|
+| Team 9 | Intro to Quantum Circuits and Gates | High School Students | David Cepeda, Ayse Kotil, Mikolaj Metelski, Cristian Emiliano Godinez Ramirez, Bavithra Govintharajah|
+
 ### Questions
 
 If you have any questions, please ask the team of Qiskit Mentors at the event or post them in the dedicated Qiskit Event
