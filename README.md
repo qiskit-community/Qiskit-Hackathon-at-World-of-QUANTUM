@@ -44,7 +44,7 @@ Here is an [example of an Education Hackathon Project Submission](https://github
 ## Teams
 
 | Team Number       | Project Topic       | Education Level       | Team Members | 
-| -----------| :-----------:|:--------------:| :------:|
+| :-----------:| :-----------:|:--------------:| :------:|
 | Team 1 - One-Zero| Quantum Key Distribution|Bachelor Students| Raul Santos, Vladlen Galetsky, Daniela Trienes, Arthur Mendonça Faria, André Lohde | 
 | Team 2 - Q&Aoa| QAOA|MSc Students (Non-Physicists)| Irene Iype, Nicolas Thill, Petr Ivashkov, Carla Weidner, Lukas Klement | 
 | Team 3 - Q Team| QKD |Bachelor Students |Robert Bakyayita, Neel Kanth Kundu, Gottfried Szing, Mike Richardson, Nandan Mishra |
