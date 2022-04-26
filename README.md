@@ -1,6 +1,6 @@
 # Welcome to the Qiskit Hackathon at World of QUANTUM
 
-## 📄  [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/In-Person%20Attendee%20Guide.pdf)
+## 📄  [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/Attendee%20Guide%20In-Person.pdf)
 
 ### About
 
