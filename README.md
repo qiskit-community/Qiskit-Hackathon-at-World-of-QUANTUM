@@ -50,7 +50,7 @@ Here is an [example of an Education Hackathon Project Submission](https://github
 | Team 3 - Q Team| QKD |Bachelor Students |Robert Bakyayita, Neel Kanth Kundu, Gottfried Szing, Mike Richardson, Nandan Mishra |
 | Team 4 - JCKCJ| QAOA | MSc Students with background in QC | Jakob Pforr, Catharina Broocks, Kevin Shen, Constantin Economides, Jakob Huhn|
 | Team 5 - Quantum Quickstarter for Industry| Quantum Quickstarter | Industry | Tammo Sievers, Aubrey Coffey, Lilly Palackal, Maximilian Hess, Matthias Wulff|
-| Team 6 | QAOA Game | MSc Students with background in QC | Kuancheng Chen, Vasily Bokov, Uday Chandrashekara, Vivek Krishnakumar Rajathilakam, Rawan Eraqi|
+| Team 6 - The Qaoakers | QAOA Game | MSc Students with background in QC | Kuancheng Chen, Vasily Bokov, Uday Chandrashekara, Vivek Krishnakumar Rajathilakam, Rawan Eraqi|
 | Team 7 - Not Shor| Shor's Algorithm | Bachelor Students with background in QC | Felix Kunze, Matthew Ross, Daniel Breuer, Maximiliam Alexandrov, Rocio Suarez|
 | Team 8 - Quantum Jargon Buster | Quantum Jargon Buster | High School Students | Nadeem Akhlaq, Leonard Bleiziffer, Johannes Frank, Julius Freigl, Steffen Keßler|
 | Team 9 - Transpilers| Intro to Quantum Circuits and Gates | High School Students | David Cepeda, Ayse Kotil, Mikolaj Metelski, Cristian Emiliano Godinez Ramirez, Bavithra Govintharajah|
