@@ -54,6 +54,8 @@ Please find full details on the Hackathon Project format, team formation, and pr
 
 Here is an [example of a submission template](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/SubmissionExample.ipynb) for your review.
 
+<details>
+
 ## Teams
 
 | Team Number       | Project Topic       |  Team Members | 
@@ -65,5 +67,6 @@ If you have any questions, please ask the team of Qiskit Mentors at the event or
 Slack Channel [#hackathon-woq-support](https://qiskit.slack.com/archives/C03BJNQ0S15).
 
 
+</details>
 
 
