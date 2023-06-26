@@ -21,7 +21,7 @@ After the 24 hours, a committee of experts will evaluate the outcome and select 
 
 10:00 - 10:45 - Check in at Hackathon Space
 
-11:00 – 12:20 - Welcome note at the Forum World of QUANTUM
+11:00 – 11:20 - Welcome note at the Forum World of QUANTUM
 
 11:30 - 13:30 - Guidelines, lunch, and team formation in the Hackathon Space
 
@@ -32,8 +32,8 @@ After the 24 hours, a committee of experts will evaluate the outcome and select 
 24:00 - Midnight Snack
 
 
-*Between 20:00 (26 April) and 08:00 (27 April) you may ask questions in the dedicated Qiskit Event
-Slack Channel [#hackathon-woq-support](https://qiskit.slack.com/archives/C03BJNQ0S15) for remote assistance. [[Click here to join
+*Between 20:00 (27 June) and 08:00 (28 June) you may ask questions in the dedicated Qiskit Event
+Slack Channel [#woq23-hackathon-support](https://qiskit.slack.com/archives/C05CHFGPADD) for remote assistance. [[Click here to join
 Qiskit Slack](https://ibm.co/joinqiskitslack), if needed.]
 
 #### Wednesday 28 June
