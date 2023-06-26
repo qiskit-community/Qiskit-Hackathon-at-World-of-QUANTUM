@@ -1,6 +1,6 @@
 # Welcome to the Qiskit Hackathon at World of QUANTUM
 
-## 📄  [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/Attendee%20Guide%20In-Person.pdf)
+## 📄  [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/Qiskit%20Hackathon%20World%20of%20Quantum%20-%20Attendee%20Guide%20In-Person.pdf)
 
 ### About
 
@@ -50,7 +50,7 @@ Qiskit Slack](https://ibm.co/joinqiskitslack), if needed.]
 
 ### Projects
 
-Please find full details on the Hackathon Project format, team formation, and project submission in the [In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/SubmissionExample.ipynb). 
+Please find full details on the Hackathon Project format, team formation, and project submission in the [In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/Qiskit%20Hackathon%20World%20of%20Quantum%20-%20Attendee%20Guide%20In-Person.pdf). 
 
 Here is an [example of a submission template](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/SubmissionExample.ipynb) for your review.
 
