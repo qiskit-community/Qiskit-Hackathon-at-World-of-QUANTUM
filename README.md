@@ -18,6 +18,9 @@ After the 24 hours, a committee of experts will evaluate the outcome and select 
 ### Timeline
 
 #### Tuesday 27 June
+
+10:00 - 10:45 - Check in at Hackathon Space
+
 11:00 – 12:20 - Welcome note at the Forum World of QUANTUM
 
 11:30 - 13:30 - Guidelines, lunch, and team formation in the Hackathon Space
