@@ -47,9 +47,9 @@ Qiskit Slack](https://ibm.co/joinqiskitslack), if needed.]
 
 ### Projects
 
-Please find full details on the Hackathon Project format, team formation, and project submission in the [In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/Attendee%20Guide%20In-Person.pdf). 
+Please find full details on the Hackathon Project format, team formation, and project submission in the [In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/SubmissionExample.ipynb). 
 
-Here is an [example of a submission template](https://github.com/TigrisCallidus/Education-Hackathon-Template) for your review.
+Here is an [example of a submission template](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/SubmissionExample.ipynb) for your review.
 
 ## Teams
 
