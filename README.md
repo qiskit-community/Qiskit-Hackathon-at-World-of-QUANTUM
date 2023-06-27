@@ -1,4 +1,4 @@
-![image](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/assets/80987494/1674533c-c713-48d9-92b0-282cad4b9153)# Welcome to the Qiskit Hackathon at World of QUANTUM
+# Welcome to the Qiskit Hackathon at World of QUANTUM
 
 ## 📄  [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/Qiskit%20Hackathon%20World%20of%20Quantum%20-%20Attendee%20Guide%20In-Person.pdf)
 
@@ -58,7 +58,7 @@ Here is an [example of a submission template](https://github.com/qiskit-communit
 ## Teams
 
 | Team Number       | Project Topic       |  Team Members | 
-| :-----------:| :-----------:|:--------------:| :------:|
+| :-----------:| :-----------:|:--------------:|
 | Team 1 | I Swing Both Ways ISBW | Murat Katal, Levan Bakhtadze, Ignacio Lindo, Leon Wildt, Sofia Los Arcos | 
 | Team 2 | Hamiltonian Harmonics | Raphael Kopp, Marc Maußner, Theirry Kaldenbach, Lea Marlen Rektorschek | 
 | Team 3 | Team RDKBMW-State | David von Bergen, Madhav Menon, Andrei Kuncser, Radu Dragomir, Cristian Radu, Tianyi Wang| 
