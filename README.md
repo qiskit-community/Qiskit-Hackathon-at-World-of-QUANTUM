@@ -1,4 +1,3 @@
-<img src= "https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QISKIT%20HACKATHON%202023.jpg?raw=true">
 # Welcome to the Qiskit Hackathon at World of QUANTUM
 
 ## 📄  [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/Qiskit%20Hackathon%20World%20of%20Quantum%20-%20Attendee%20Guide%20In-Person.pdf)
@@ -76,3 +75,4 @@ If you have any questions, please ask the team of Qiskit Mentors at the event or
 Slack Channel [#woq23-hackathon-support](https://qiskit.slack.com/archives/C05CHFGPADD) for remote assistance. [Click here to join Qiskit Slack](https://ibm.co/joinqiskitslack).
 
 
+<img src= "https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QISKIT%20HACKATHON%202023.jpg?raw=true">
