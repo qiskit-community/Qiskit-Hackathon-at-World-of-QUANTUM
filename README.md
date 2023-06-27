@@ -1,4 +1,4 @@
-
+<img src= "https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QISKIT%20HACKATHON%202023.jpg?raw=true">
 # Welcome to the Qiskit Hackathon at World of QUANTUM
 
 ## 📄  [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/Qiskit%20Hackathon%20World%20of%20Quantum%20-%20Attendee%20Guide%20In-Person.pdf)
