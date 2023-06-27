@@ -62,6 +62,12 @@ Here is an [example of a submission template](https://github.com/qiskit-communit
 | Team 1 | I Swing Both Ways ISBW | Murat Katal, Levan Bakhtadze, Ignacio Lindo, Leon Wildt, Sofia Los Arcos | 
 | Team 2 | Hamiltonian Harmonics | Raphael Kopp, Marc Maußner, Theirry Kaldenbach, Lea Marlen Rektorschek | 
 | Team 3 | Team RDKBMW-State | David von Bergen, Madhav Menon, Andrei Kuncser, Radu Dragomir, Cristian Radu, Tianyi Wang| 
+| Team 4 | Squiz | Pallavi Bhardwaj, Michael Schrödl-Baumann, Tabea Funning, Mohammad Sahnawaz Alam, Jaroslav Kysela, Mike Taverne| 
+| Team 5 | Roo Qiskit | Philipp Semmel, Ilie Cristian, Dragna Laketic, Lorenzo De Lotto, Leonard Luchini, Giovanni Dal Lago| 
+| Team 6 | Hamil Toniq | Kuan-Cheng Chen, Xiaotian Xu, Tomasz Andrzejewski, Elif Cetiner, Pascal Windhager, Jessica Link| 
+
+
+
 
 
 
