@@ -33,7 +33,7 @@ After the 24 hours, a committee of experts will evaluate the outcome and select 
 
 
 *Between 20:00 (27 June) and 08:00 (28 June) you may ask questions in the dedicated Qiskit Event
-Slack Channel [#woq23-hackathon-support](https://qiskit.slack.com/archives/C05CHFGPADD) for remote assistance. [[Click here to join
+Slack Channel [#woq23-hackathon-support](https://qiskit.slack.com/archives/C05CHFGPADD) for remote assistance. [Click here to join
 Qiskit Slack](https://ibm.co/joinqiskitslack), if needed.]
 
 #### Wednesday 28 June
@@ -72,6 +72,6 @@ Here is an [example of a submission template](https://github.com/qiskit-communit
 
 
 If you have any questions, please ask the team of Qiskit Mentors at the event or post them in the dedicated Qiskit Event
-Slack Channel [#woq23-hackathon-support](https://qiskit.slack.com/archives/C05CHFGPADD) for remote assistance. [[Click here to join Qiskit Slack](https://ibm.co/joinqiskitslack).
+Slack Channel [#woq23-hackathon-support](https://qiskit.slack.com/archives/C05CHFGPADD) for remote assistance. [Click here to join Qiskit Slack](https://ibm.co/joinqiskitslack).
 
 
