@@ -1,4 +1,3 @@
-https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QISKIT%20HACKATHON%202023.jpg?raw=true
 
 # Welcome to the Qiskit Hackathon at World of QUANTUM
 
