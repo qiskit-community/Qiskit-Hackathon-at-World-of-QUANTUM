@@ -54,7 +54,7 @@ Please find full details on the Hackathon Project format, team formation, and pr
 
 Here is an [example of a submission template](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/SubmissionExample.ipynb) for your review.
 
-<!--
+
 ## Teams
 
 | Team Number       | Project Topic       |  Team Members | 
@@ -65,16 +65,13 @@ Here is an [example of a submission template](https://github.com/qiskit-communit
 | Team 4 | Squiz | Pallavi Bhardwaj, Michael Schrödl-Baumann, Tabea Funning, Mohammad Sahnawaz Alam, Jaroslav Kysela, Mike Taverne| 
 | Team 5 | Roo Qiskit | Philipp Semmel, Ilie Cristian, Dragna Laketic, Lorenzo De Lotto, Leonard Luchini, Giovanni Dal Lago| 
 | Team 6 | Hamil Toniq | Kuan-Cheng Chen, Xiaotian Xu, Tomasz Andrzejewski, Elif Cetiner, Pascal Windhager, Jessica Link| 
-
-
-
-
+| Team 7 | Relaxed Qubits | Florian Maier, Julius Feigl, Leonard Bleiziffer, Jan Glenn Wozniak, Daniel Ortmann, Shivang Arora | 
+| Team 8 | Q5 Team | Lorena Mendez, Chuying He, Pantelis Fragkos, Ioannis Lavdas, Aleksandar Mona Macko Puhek | 
+| Team 9 | NUQQETHZ | Maurice Hanisch, Vinicius Mohr, Riccardo Cichetti, Timothy Stroschein, Sri Vasudha Hemadri Bhotla, Petia Arabadjieva| 
+| Team 10 | QMI | Mayssa Louhichi, Ithar Khaterchi| 
 
 
 If you have any questions, please ask the team of Qiskit Mentors at the event or post them in the dedicated Qiskit Event
-Slack Channel [#hackathon-woq-support](https://qiskit.slack.com/archives/C03BJNQ0S15).
+Slack Channel [#woq23-hackathon-support](https://qiskit.slack.com/archives/C05CHFGPADD) for remote assistance. [[Click here to join Qiskit Slack](https://ibm.co/joinqiskitslack).
 
-
-
--->
 
